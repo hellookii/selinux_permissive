@@ -25,4 +25,3 @@ Master branch:
 ## Support
 
 - [Insatgram](https://www.instagram.com/m.rizkii_/?igshid=NTc4MTIwNjQ2YQ%3D%3D)
-- [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-debugging-modules-adb-root-t4050041)
