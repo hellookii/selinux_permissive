@@ -24,5 +24,5 @@ Master branch:
 
 ## Support
 
-- [Telegram](https://t.me/joinchat/GsJfBBaxozXvVkSJhm0IOQ)
+- [Insatgram]([https://t.me/joinchat/GsJfBBaxozXvVkSJhm0IOQ](https://instagram.com/m.rizkii_?igshid=NTc4MTIwNjQ2YQ==))
 - [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-debugging-modules-adb-root-t4050041)
