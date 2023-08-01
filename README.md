@@ -16,7 +16,7 @@ Stable release:
 2. MagiskManager -> Modules + Downloads/selinux_permissive.zip -> Reboot
 
 Master branch:
-1. git clone https://github.com/evdenis/selinux_permissive
+1. git clone https://github.com/hellookii/selinux_permissive
 2. cd selinux_permissive
 3. git archive --output selinux_permissive.zip HEAD
 4. adb push selinux_permissive.zip /sdcard/
