@@ -23,5 +23,4 @@ Master branch:
 5. MagiskManager -> Modules + selinux_permissive.zip -> Reboot
 
 ## Support
-
 - [Insatgram](https://www.instagram.com/m.rizkii_/?igshid=NTc4MTIwNjQ2YQ%3D%3D)
